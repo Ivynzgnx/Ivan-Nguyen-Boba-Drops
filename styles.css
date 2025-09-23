@@ -1,0 +1,38 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 50px;
+    color: #fff200;
+    max-width: 800px;
+    margin: 0 auto;
+    background-image: url('https://www.nbc.com/sites/nbcblog/files/2024/03/1992-olympic-basketball-team3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+.basketball-button {
+    display: inline-block;
+    background-color: Black;
+    padding: 3px;
+    color: Blue;
+    text-align: center;
+}
+img {
+    border-radius: 10px;
+    margin-bottom: 20px;
+}
+
+img:hover {
+    transform: scale(1.1);
+} 
+.glowing-text {
+  color: Black;
+  text-shadow: 0 0 10px #00f, 0 0 20px #00f, 0 0 30px #00f;
+}
+h1 {
+     font-size: 1rem
+     font-style:
+    color:  #2c3e50;
+    border-bottom: 2px solid #eee;
+    padding-bottom: 10px;
+}
